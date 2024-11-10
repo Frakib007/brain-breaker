@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Talk: By Anisul Haque",
+    "description": "An introductory session on artificial intelligence.",
+    "date": "2024-11-29",
+    "time": "10:00 AM",
+    "location": "Auditorium A"
+  },
+  {
+    "id": 2,
+    "title": "Club Fair",
+    "description": "Meet and join campus clubs.",
+    "date": "2024-11-18",
+    "time": "12:00 PM",
+    "location": "Main Hall"
+  },
+  {
+    "id": 2,
+    "title": "Club Fair",
+    "description": "Meet and join campus clubs.",
+    "date": "2024-11-18",
+    "time": "12:00 PM",
+    "location": "Main Hall"
+  }
+]
